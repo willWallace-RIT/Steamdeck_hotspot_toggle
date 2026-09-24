@@ -8,3 +8,4 @@ A self-contained solution to provision and toggle a persistent Wi-Fi access poin
 2. Run the installer script to generate the system configuration and install the toggle binary:
    ```bash
    ./install.sh
+3. Use the toggle script to switch the hotspot state instantly.
